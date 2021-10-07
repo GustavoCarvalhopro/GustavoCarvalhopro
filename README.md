@@ -19,7 +19,7 @@
   <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gustavo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gustavo-Csharp" height="30" width="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img align="center" alt="Gustavo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gustavo-PostgreSql" height="30" width="70" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="right" alt="Gustavo-pic" height="150" style="https://picrew.me/image_maker/338224/complete?cd=mUnIWpUgpT" 
 </div>
