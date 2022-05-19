@@ -1,7 +1,7 @@
 ### Olá! eu sou o Gustavo Rodrigo de Carvalho 👋
 
-- 🔭 Hoje trabalho em uma empresa de Informatica.
-- 🌱 Atualmente estou estudando Python.
+- 🔭 Embusca do conhecimento supremo.
+- 🌱 Atualmente estou estudando JavaScript.
 - 💬 Pode me perguntar também sobre PostgreSQL.
 - ⚡ Me divertindo em um mundo de tecnologias.
 
