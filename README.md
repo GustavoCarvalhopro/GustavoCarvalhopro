@@ -1,4 +1,4 @@
-### Olá! eu sou o Gustavo Rodrigo de Carvalho 👋
+### Me chamo Gustavo Rodrigo de Carvalho e Amo Tecnologia!
 
 - 🔭 Embusca do conhecimento supremo.
 - 🌱 Atualmente estou estudando JavaScript.
