@@ -1,7 +1,7 @@
-### Me chamo Gustavo Rodrigo de Carvalho e Amo Tecnologia!
+### Me chamo Gustavo Rodrigo de Carvalho
 
 - 🔭 Embusca do conhecimento supremo.
-- 🌱 Atualmente estou estudando JavaScript.
+- 🌱 Atualmente estou estudando JavaScript, Python, Java & POO.
 - 💬 Pode me perguntar também sobre PostgreSQL.
 - ⚡ Me divertindo em um mundo de tecnologias.
 
